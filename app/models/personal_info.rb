@@ -1,4 +1,4 @@
-class Personal_Info < ApplicationRecord
+class PersonalInfo < ApplicationRecord
   belongs_to :resume
 
 

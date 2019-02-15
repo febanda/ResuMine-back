@@ -1,3 +1,3 @@
-class Work_Experience < ApplicationRecord
+class WorkExperience < ApplicationRecord
   belongs_to :resume
 end
